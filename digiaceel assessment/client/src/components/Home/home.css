@@ -1,0 +1,19 @@
+body{
+    background-color: grey;
+    width: 100%;
+    height:100%;
+}
+.adminButton{
+    text-align: center;
+    width: 25%;
+    font-size: 100%;
+    margin-left: 38%;
+    margin-top: 250px;
+}
+.userButton{
+    text-align: center;
+    width: 25%;
+    font-size: 100%;
+    margin-left: 38%;
+    margin-top: 20px;
+}
